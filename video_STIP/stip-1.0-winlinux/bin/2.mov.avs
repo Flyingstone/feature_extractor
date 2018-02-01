@@ -1,0 +1,1 @@
+DirectShowSource("2.mpg", fps=25)

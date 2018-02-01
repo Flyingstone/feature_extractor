@@ -1,0 +1,3 @@
+# opencv-STIP-format-1.0
+# source: "1.mov.avs" width:456 height:32 frame-offset:0
+# point-type x y t sigma2 tau2 confidence descriptor-values
